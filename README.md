@@ -1,4 +1,4 @@
-defacto2-website
+Defacto2 / defacto2-website
 ==================
 
 This is a task and bug tracker repository for the online Defacto2 website.
