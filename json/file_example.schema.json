@@ -1,0 +1,290 @@
+{
+	"type":"object",
+	"$schema": "http://json-schema.org/draft-03/schema",
+	"id": "http://jsonschema.net",
+	"required":false,
+	"properties":{
+		"0": {
+			"type":"object",
+			"id": "http://jsonschema.net/0",
+			"required":true,
+			"properties":{
+				"category": {
+					"type":"string",
+					"id": "http://jsonschema.net/0/category",
+					"required":true
+				},
+				"comment": {
+					"type":"string",
+					"id": "http://jsonschema.net/0/comment",
+					"required":false
+				},
+				"credits": {
+					"type":"array",
+					"id": "http://jsonschema.net/0/credits",
+					"required":false,
+					"items":
+						{
+							"type":"object",
+							"id": "http://jsonschema.net/0/credits/0",
+							"required":false,
+							"properties":{
+								"artists": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/credits/0/artists",
+									"required":false
+								},
+								"musicians": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/credits/0/musicians",
+									"required":false
+								},
+								"programmers": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/credits/0/programmers",
+									"required":false
+								},
+								"writers": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/credits/0/writers",
+									"required":false
+								}
+							}
+						}
+					
+
+				},
+				"description": {
+					"type":"string",
+					"id": "http://jsonschema.net/0/description",
+					"required":false
+				},
+				"file": {
+					"type":"array",
+					"id": "http://jsonschema.net/0/file",
+					"required":false,
+					"items":
+						{
+							"type":"object",
+							"id": "http://jsonschema.net/0/file/0",
+							"required":false,
+							"properties":{
+								"hashMD5": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/file/0/hashMD5",
+									"required":false
+								},
+								"lastModified": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/file/0/lastModified",
+									"required":false
+								},
+								"name": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/file/0/name",
+									"required":false
+								},
+								"platform": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/file/0/platform",
+									"required":false
+								},
+								"sizeBytes": {
+									"type":"number",
+									"id": "http://jsonschema.net/0/file/0/sizeBytes",
+									"required":false
+								},
+								"videoCodec": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/file/0/videoCodec",
+									"required":false
+								}
+							}
+						}
+					
+
+				},
+				"ids": {
+					"type":"array",
+					"id": "http://jsonschema.net/0/ids",
+					"required":false,
+					"items":
+						{
+							"type":"object",
+							"id": "http://jsonschema.net/0/ids/0",
+							"required":false,
+							"properties":{
+								"defacto2": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/ids/0/defacto2",
+									"required":true
+								},
+								"pouet": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/ids/0/pouet",
+									"required":false
+								},
+								"youtube": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/ids/0/youtube",
+									"required":false
+								}
+							}
+						}
+					
+
+				},
+				"links": {
+					"type":"array",
+					"id": "http://jsonschema.net/0/links",
+					"required":false,
+					"items":
+						{
+							"type":"object",
+							"id": "http://jsonschema.net/0/links/0",
+							"required":false,
+							"properties":{
+								"defacto2": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/links/0/defacto2",
+									"required":false
+								},
+								"download": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/links/0/download",
+									"required":false
+								},
+								"pouet": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/links/0/pouet",
+									"required":false
+								},
+								"youTube": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/links/0/youTube",
+									"required":false
+								}
+							}
+						}
+					
+
+				},
+				"published": {
+					"type":"array",
+					"id": "http://jsonschema.net/0/published",
+					"required":false,
+					"items":
+						{
+							"type":"object",
+							"id": "http://jsonschema.net/0/published/0",
+							"required":false,
+							"properties":{
+								"by": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/published/0/by",
+									"required":false
+								},
+								"date": {
+									"type":"array",
+									"id": "http://jsonschema.net/0/published/0/date",
+									"required":false,
+									"items":
+										{
+											"type":"object",
+											"id": "http://jsonschema.net/0/published/0/date/0",
+											"required":false,
+											"properties":{
+												"day": {
+													"type":"number",
+													"id": "http://jsonschema.net/0/published/0/date/0/day",
+													"required":false
+												},
+												"month": {
+													"type":"number",
+													"id": "http://jsonschema.net/0/published/0/date/0/month",
+													"required":false
+												},
+												"year": {
+													"type":"number",
+													"id": "http://jsonschema.net/0/published/0/date/0/year",
+													"required":false
+												}
+											}
+										}
+									
+
+								},
+								"for": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/published/0/for",
+									"required":false
+								}
+							}
+						}
+					
+
+				},
+				"screenshots": {
+					"type":"array",
+					"id": "http://jsonschema.net/0/screenshots",
+					"required":false,
+					"items":
+						{
+							"type":"object",
+							"id": "http://jsonschema.net/0/screenshots/0",
+							"required":false,
+							"properties":{
+								"documentation": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/screenshots/0/documentation",
+									"required":false
+								},
+								"file_id.diz": {
+									"type":"string",
+									"id": "http://jsonschema.net/0/screenshots/0/file_id.diz",
+									"required":false
+								},
+								"previews": {
+									"type":"array",
+									"id": "http://jsonschema.net/0/screenshots/0/previews",
+									"required":false,
+									"items":
+										{
+											"type":"object",
+											"id": "http://jsonschema.net/0/screenshots/0/previews/0",
+											"required":false,
+											"properties":{
+												"150xThumbnail": {
+													"type":"string",
+													"id": "http://jsonschema.net/0/screenshots/0/previews/0/150xThumbnail",
+													"required":false
+												},
+												"400xThumbnail": {
+													"type":"string",
+													"id": "http://jsonschema.net/0/screenshots/0/previews/0/400xThumbnail",
+													"required":false
+												},
+												"fullSize": {
+													"type":"string",
+													"id": "http://jsonschema.net/0/screenshots/0/previews/0/fullSize",
+													"required":false
+												}
+											}
+										}
+									
+
+								}
+							}
+						}
+					
+
+				},
+				"uuid": {
+					"type":"string",
+					"id": "http://jsonschema.net/0/uuid",
+					"required":true
+				}
+			}
+		}
+	}
+}
