@@ -3,13 +3,13 @@ Draft JSON data exports for files hosted on Defacto2
 
 #### file/list-json
 
-Is a JSON end-point that lists all files hosted on Defacto2. Contains URL ID and UUID, ordered by date posted.
+Is a 600MB JSON end-point that lists all files hosted on Defacto2. Contains URL ID and UUID, ordered by date posted.
 
 Proposed URL:
 * www.defacto2.net/file/list-json
 
 #### file/update-json
-Is a JSON end-point that lists all files hosted on Defacto2. Contains URL ID, UUID, updated date/time, created date/time, deleted date/time.
+Is a 1MB JSON end-point that lists all files hosted on Defacto2. Contains URL ID, UUID, updated date/time, created date/time, deleted date/time.
 Of the 3 example records shown in the JSON. This first shows a record that has been updated. The second shows a record that has been deleted. The third shows a record that has been created. The updated value will always be updated when any Create/Update/Delete action is applied to the record.
 
 Proposed URL:
