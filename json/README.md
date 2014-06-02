@@ -23,8 +23,8 @@ Proposed URLs:
 * www.defacto2.net/file/data-json/ab2d75
 * www.defacto2.net/file/data-json/b343ed
 
-##### file_example.json and file_example.schema.json 
-Are redundant JSON item example and schema.
+##### redundant/file_example.json and redundant/file_example.schema.json 
+Are a redundant JSON item example and schema.
 
 ##### Validation
 JSONlint (http://jsonlint.com/) was used for validation.
