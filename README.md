@@ -1,8 +1,8 @@
-Defacto2 / defacto2-website
+Defacto2
 ==================
+www.defacto2.net
 
 This is a task and bug tracker repository for the Defacto2 website.
-https://www.defacto2.net
 
 To see what new code and features have been implemented on the site.
 * https://github.com/Defacto2/defacto2-website/releases
@@ -14,4 +14,4 @@ Any data corrections such as incorrect information on 'Art & files' can be repor
 * https://github.com/Defacto2/defacto2-website/issues?milestone=4&state=open
 
 Visit the milestones to see or suggest future enhancements and ideas for the site.
-* https://github.com/Defacto2/defacto2-website/issues/milestones
+* https://github.com/Defacto2/defacto2-website/milestones
