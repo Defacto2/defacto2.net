@@ -1,6 +1,6 @@
 Defacto2
 ==================
-www.defacto2.net
+[defacto2.net](https://defacto2.net)
 
 This is a task and bug tracker repository for the Defacto2 website.
 
