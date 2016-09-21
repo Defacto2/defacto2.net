@@ -1,7 +1,7 @@
 # Defacto2
 ### [defacto2.net](https://defacto2.net)
 
-Task, bug tracker repository and wiki for the Defacto2 website.
+Task, bug tracker repository and wiki for the [Defacto2 website](https://defacto2.net).
 
 ### [New features](https://github.com/Defacto2/defacto2-website/releases)
 To see what new code and features have been implemented on the site.
@@ -14,5 +14,7 @@ Any data corrections such as incorrect information on the *Art & files* can be r
 
 ### [Suggestions](https://github.com/Defacto2/defacto2-website/milestones)
 Visit the milestones to see or suggest future enhancements and ideas for the site.
+
+### [Contact](https://defacto2.net/contact/index)
 
 ![Website screen shot](SCREEN.png)
