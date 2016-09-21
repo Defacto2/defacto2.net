@@ -1,6 +1,5 @@
 # Defacto2
-
-## [defacto2.net](https://defacto2.net)
+### [defacto2.net](https://defacto2.net)
 
 Task, bug tracker repository and wiki for the Defacto2 website.
 
