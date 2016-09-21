@@ -16,6 +16,6 @@ Any data corrections such as incorrect information on the *Art & files* can be r
 Visit the milestones to see or suggest future enhancements and ideas for the site.
 
 ### [Contact](https://defacto2.net/contact/index)
-
+Please feel free to contact us on social or using our web forms.
 
 ![Website screen shot](SCREEN.png)
