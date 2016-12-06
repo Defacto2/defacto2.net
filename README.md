@@ -7,7 +7,7 @@ Project repository, bug tracker, and wiki for the [Defacto2 website](https://def
 To see what new code and features have been implemented on the site.
 
 ### [Data corrections](https://github.com/Defacto2/defacto2.net/milestone/4)
-Any data corrections such as incorrect information on the *Art & files* can be reported here, please include a URL pointing to the item as the *Issue's* title.
+Report any data corrections such as incorrect information on the *Art & files*, please include a URL pointing to the item as the *Issue's* title.
 
 ### [Issues](https://github.com/Defacto2/defacto2-website/issues/new)
 If you have discovered a bug with the site it would be a great help if you could report it!
